@@ -21,31 +21,29 @@
 
 <br/>  
 
-
-## My Skill Set  
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx rosid
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npx anmol](https://github.com/rosid-mustofa/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "ReactJs", "NextJs","Laravel", "Flutter"],
+    askMeAbout: ["web dev", "tech", "app dev", "ui/ux"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Fastify", "Express","nestJs"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            hybrid: ["Flutter Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySql", "sqlite","PostGre],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
