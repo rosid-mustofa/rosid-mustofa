@@ -3,7 +3,7 @@
 </div>  
   
 
-#<div align="center">I'm Rosid, a Fullstack Web and Mobile, Lecture Practic & Mentor 👨‍💻
+#<div align="center">💻 I'm Rosid, a Fullstack Web and Mobile, Lecture Practic & Mentor 👨‍💻       
 </div>#  
   
 
